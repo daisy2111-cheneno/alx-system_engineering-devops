@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %s'\n' 'this is my first encryption/decryption script' |tr 'n-za-mN-ZA-M' 'a-zA-Z'
+printf %s'\n' 'quote' |tr 'n-za-mN-ZA-M' 'a-zA-Z'
