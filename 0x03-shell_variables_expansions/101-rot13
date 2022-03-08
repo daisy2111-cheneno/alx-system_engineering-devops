@@ -1,2 +1,2 @@
 #!/bin/bash
-echo quote |tr n-za-mN-ZA-M a-zA-Z
+echo 'this is my first encryption/decryption script' |tr 'n-za-mN-ZA-M' 'a-zA-Z'
